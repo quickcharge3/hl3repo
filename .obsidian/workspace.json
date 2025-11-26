@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "f373a8dd3cc4b363",
+    "type": "split",
+    "children": [
+      {
+        "id": "636574f00724f914",
+        "type": "tabs",
+        "dimension": 47.124413145539904,
+        "children": [
+          {
+            "id": "4489effbf7c5d570",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_TODO"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e9dfcb913d34f5a4",
+        "type": "tabs",
+        "dimension": 52.875586854460096,
+        "children": [
+          {
+            "id": "09dd1ca1673a706b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4625d700f11e484",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b24b0606db12c8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d8938be2862f808",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "43e405be50b6fe0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "31d01c1da9796b39",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0fc906ed385ae8da",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe2412e271925929",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "678a0b33c0e9b59b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "54b962622630f803",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "473ac7e4be6c8774",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "268e275fb4e72d6f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e8bee6ba5d558c7b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "4489effbf7c5d570",
+  "lastOpenFiles": [
+    "$APERTURE.md",
+    "Combine Encryption.md",
+    "_TODO.md",
+    "_Intro.md",
+    "Combine Abilities.md",
+    "Chat.md",
+    "Combine Occupation.md",
+    "Gameplay Periods.md",
+    "Economics.md",
+    "$REBELLION.md",
+    "Advisor Council.md",
+    "Crate Drops.md",
+    "Peace and Trade.md",
+    "$HLX.md",
+    "Global Hope Buff.md",
+    "$GLOBALDEFENSIVE.md",
+    "Rebellion Victory.md",
+    "Combine Invasion.md",
+    "Impending Portal Storm.md",
+    "Anti Citizen.md",
+    "countdown_design_doc/Voting.md",
+    "countdown_design_doc/UI.md",
+    "countdown_design_doc/Timer.md",
+    "countdown_design_doc/Space Weather Report.md",
+    "countdown_design_doc/Rebellion.md",
+    "countdown_design_doc/Rebellion Victory.md",
+    "countdown_design_doc/Templates",
+    "countdown_design_doc/Images/Pasted Image 20251123013939_482.png",
+    "countdown_design_doc/Images/Pasted Image 20251123005956_641.png",
+    "countdown_design_doc/Images/Pasted Image 20251122221814_598.png",
+    "countdown_design_doc/Images/Pasted Image 20251122221610_507.png",
+    "countdown_design_doc/Images/Pasted Image 20251122213547_347.png",
+    "countdown_design_doc/Images/Pasted Image 20251122185202_286.png",
+    "countdown_design_doc/Images/Pasted Image 20251122185202_282.png",
+    "countdown_design_doc/Images/Pasted Image 20251122185202_275.png",
+    "countdown_design_doc/Images/Pasted Image 20251122135406_297.png",
+    "countdown_design_doc/Images/Pasted Image 20251122024445_301.png",
+    "countdown_design_doc/Images",
+    "countdown_design_doc/hl3",
+    "countdown_design_doc",
+    "Templates",
+    "Images",
+    "hl3"
+  ]
+}

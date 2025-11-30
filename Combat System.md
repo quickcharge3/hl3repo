@@ -9,7 +9,7 @@ related notes: "[[Combine]]"
 
 # General Notes on Combat System
 
-The Combat system is inspired by browser games such as tribal wars and x-wars
+The Combat system is inspired by browser games such as [Tribal Wars](https://en.wikipedia.org/wiki/Tribal_Wars) and [X-Wars](https://en.wikipedia.org/wiki/X-Wars) that I played in the late 2000s.
 
 In these games, players build up a village or planet with idle points, trade, form alliances and go to war with other factions.
 
@@ -22,6 +22,13 @@ In these games, combat is determined by a classic RTS rock paper scissors system
 This is where we deviate, since we won't have rock paper scissors unit compositions but instead base calculations on current stock prices.
 
 Players can not manually dispatch these attacks, instead they get dispatched periodically based on current [[$GLOBALDEFENSIVE]] stock prices or from [[Crate Drops]].
+
+>[!note]
+>
+>the automatic dispatch is partly out of concern of not killing the site from people all spamming a single button.
+>If that's something the site can handle (into the future) then a collectively spammable button could be a fun addition to combat
+
+
 
 Hence, based on investment in [[$GLOBALDEFENSIVE]], Earth would dispatch some amount of attacks per minute
 

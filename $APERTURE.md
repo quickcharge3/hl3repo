@@ -2,7 +2,6 @@
 tags:
   - economy
   - funds
-  - combine
   - encryption
   - game-mechanic
 related notes: "[[Economics]]"

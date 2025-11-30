@@ -15,7 +15,7 @@ related notes:
 ---
 # [[Gameplay Periods]] #4
 
-This is a period of gameplay with its own ruleset
+This is period 4/5 of gameplay with its own ruleset
 
 
 # [[Advisor Council]]

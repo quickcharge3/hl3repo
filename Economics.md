@@ -10,10 +10,10 @@ related notes:
 
 List of available stock options throughout the game:
 
-[[$HLX]]
-[[$APERTURE]]
-[[$GLOBALDEFENSIVE]]
-[[$REBELLION]]
+1) [[$HLX]]
+2) [[$APERTURE]]
+3) [[$GLOBALDEFENSIVE]]
+4) [[$REBELLION]]
 
 
 List of available stock options during each period of the game loop:

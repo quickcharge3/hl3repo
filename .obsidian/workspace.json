@@ -6,7 +6,6 @@
       {
         "id": "636574f00724f914",
         "type": "tabs",
-        "dimension": 47.124413145539904,
         "children": [
           {
             "id": "4489effbf7c5d570",
@@ -20,23 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "_TODO"
-            }
-          }
-        ]
-      },
-      {
-        "id": "e9dfcb913d34f5a4",
-        "type": "tabs",
-        "dimension": 52.875586854460096,
-        "children": [
-          {
-            "id": "09dd1ca1673a706b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -189,6 +171,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -200,32 +183,37 @@
   },
   "active": "4489effbf7c5d570",
   "lastOpenFiles": [
-    "$APERTURE.md",
-    "Combine Encryption.md",
+    "Crate Drops.md",
     "_TODO.md",
-    "_Intro.md",
-    "Combine Abilities.md",
     "Chat.md",
-    "Combine Occupation.md",
+    "Combine Abilities.md",
+    "_Intro.md",
+    "hl3/hl3countdown.md",
+    "Rebellion.md",
+    "Health Bar.md",
+    "UI Mockups/UI Advisor Council.md",
+    "hl3/Excalidraw.md",
+    "Pasted Image 20251127172844_596.png",
+    "Images/Pasted Image 20251120225741_876.png",
+    "cursor_PNG55-3523104135.png",
+    "UI Mockups/Untitled.canvas",
+    "UI Mockups",
+    "Advisor.md",
+    "Portal Storm.md",
+    "Timer.md",
+    "Combat System.md",
     "Gameplay Periods.md",
     "Economics.md",
+    "Stock.md",
+    "Portfolio.md",
+    "Cities.md",
+    "$APERTURE.md",
+    "Points.md",
+    "Combine Occupation.md",
+    "Peace and Trade.md",
+    "Combine Encryption.md",
     "$REBELLION.md",
     "Advisor Council.md",
-    "Crate Drops.md",
-    "Peace and Trade.md",
-    "$HLX.md",
-    "Global Hope Buff.md",
-    "$GLOBALDEFENSIVE.md",
-    "Rebellion Victory.md",
-    "Combine Invasion.md",
-    "Impending Portal Storm.md",
-    "Anti Citizen.md",
-    "countdown_design_doc/Voting.md",
-    "countdown_design_doc/UI.md",
-    "countdown_design_doc/Timer.md",
-    "countdown_design_doc/Space Weather Report.md",
-    "countdown_design_doc/Rebellion.md",
-    "countdown_design_doc/Rebellion Victory.md",
     "countdown_design_doc/Templates",
     "countdown_design_doc/Images/Pasted Image 20251123013939_482.png",
     "countdown_design_doc/Images/Pasted Image 20251123005956_641.png",
@@ -234,9 +222,6 @@
     "countdown_design_doc/Images/Pasted Image 20251122213547_347.png",
     "countdown_design_doc/Images/Pasted Image 20251122185202_286.png",
     "countdown_design_doc/Images/Pasted Image 20251122185202_282.png",
-    "countdown_design_doc/Images/Pasted Image 20251122185202_275.png",
-    "countdown_design_doc/Images/Pasted Image 20251122135406_297.png",
-    "countdown_design_doc/Images/Pasted Image 20251122024445_301.png",
     "countdown_design_doc/Images",
     "countdown_design_doc/hl3",
     "countdown_design_doc",

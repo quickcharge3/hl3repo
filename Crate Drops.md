@@ -15,7 +15,13 @@ In addition to gambling for points, crates drop outgoing attacks toward the comb
 # Crate Loadouts
 
 
-We'll need specific Loadouts for 
+We'll need specific Loadouts for each of the [[Gameplay Periods]]
+
+
+
+
+
+
 
 
 

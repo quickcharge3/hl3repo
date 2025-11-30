@@ -14,8 +14,10 @@ These features could be fun to implement and add to the character of the site
 - adding a new stock option ([[$APERTURE]])
 
 - Test a voting system for the Advisor Council
-	- assign players as advisors, change their leaderboard icon and have a secret vote
-	- the vote is announced to all players
+	- add an advisor council quick event
+	- assign 10 random top 50 players as advisors, change their leaderboard icon and have a secret vote on the next quick event between 3 options
+	- the vote is announced to all players and the chosen quick event happens
+	- if there is a tie, a random one of the tied events is chosen
 
 - [[Portal Storm]] Timer
 	- we can start teasing the portal storm once [[$APERTURE]] fund is in the game
@@ -31,6 +33,7 @@ These features could be fun to implement and add to the character of the site
 
 - [[Overwatch]]
 	- ties into your existing [[Anti Citizen]] system and extends it by also watching the stock market and [[Combine Occupation]] Health amount
+	- also extends it by introducing some kind of "API allowance" per user that can be modified by effects like [[Combine Abilities]]
 
 ## design / graphics
 
@@ -47,6 +50,18 @@ I can efficiently help with anything that is design related - collecting/organiz
 
 
 
+# minimum viable
+
+Some features, while nice, are not crucial, for example [[Medals]] are something that can be added later on (or never)
+
+The most important features for the idea to work are the [[Combat System]] and [[Advisor Council]]
+
+
+
+
+
+
+
 Split into Gameplay Loop periods
 
 1) [x] economy 2.0
@@ -60,7 +75,7 @@ Split into Gameplay Loop periods
 	1) [ ] [[Combat System]]
 		- [ ] UI for in- and outgoing attacks
 	2) [ ] [[Combine]] health bar
-	3) [ ] Combat [[Chat]] log
+	3) [ ] Combat Damage [[Chat]] log
 	4) [ ] new [[Crate Drops]]
 	5) [ ] some Combine Invasion background images
 4) 
@@ -74,7 +89,7 @@ Split into Gameplay Loop periods
 	7) [ ] new [[Crate Drops]]
 	8) [ ] some Combine Occupation / Propaganda background images
 5) 
-	1) [ ] Earth Defence [[Leaderboards]] ( [[Medals]] )
+	1) [ ] Global Defensive [[Leaderboards]] ( [[Medals]] )
 	2) [ ] Rebellion [[Leaderboards]] ( [[Medals]] )
 	3) [ ] Combine [[Leaderboards]] ( Time spent as Advisor )
 	4) [x] Default Leaderboard ([[Points]])
